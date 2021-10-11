@@ -1,0 +1,19 @@
+{
+  "home": [
+    {
+      "room": "bedroom1",
+      "light": "ON",
+      "thermostat": "70"
+    },
+    {
+      "room": "bedroom2",
+      "light": "ON",
+      "thermostat": "70"
+    },
+    {
+      "room": "livingroom",
+      "light": "ON",
+      "thermostat": "70"
+    }
+  ]
+}
